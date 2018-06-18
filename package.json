@@ -10,6 +10,9 @@
     "lint": "eslint .",
     "lint:fix": "yarn lint --fix"
   },
+  "pre-commit": [
+    "lint"
+  ],
   "keywords": [
     "javascript",
     "eslint",
