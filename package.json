@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-wslfx",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Weasel & Fox ESLint config",
   "main": "index.js",
   "repository": "https://github.com/weaselandfox/eslint-config-wslfx",
